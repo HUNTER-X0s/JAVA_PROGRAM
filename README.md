@@ -83,6 +83,8 @@ Example:
 javac filename.java
 Run the program:
 java filename
+```
+
 🚀 Purpose
 Practice Java programming
 Strengthen DSA & problem-solving
